@@ -1,0 +1,2 @@
+Coloque seus arquivos MP3 nesta pasta.
+O bot vai escolher um aleatoriamente cada vez que for tocar.
