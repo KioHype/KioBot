@@ -171,4 +171,4 @@ KioBot/
 
 ## Canal do criador
 
-[SEU CANAL AQUI]
+https://www.youtube.com/@KioHype
